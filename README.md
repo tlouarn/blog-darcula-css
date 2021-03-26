@@ -10,8 +10,10 @@ Copy the file into your theme's 'static/css/darcula.css'
 
 Then add the below to your config.toml:
 
+```toml
 pygmentsUseClasses = true
 pygmentsCodefences = true
 
 [Params]
   css = ["css/darcula.css"]
+```
