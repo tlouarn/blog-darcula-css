@@ -6,7 +6,11 @@ This CSS file is an attempt at recreating JetBrains' Darcula theme from PyCharm 
 
 ## Usage in Hugo
 
-Copy the file into your theme's 'static/css/darcula.css'
+Copy the file into your theme's 
+
+```shell
+static/css/darcula.css
+```
 
 Then add the below to your config.toml:
 
