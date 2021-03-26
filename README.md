@@ -25,3 +25,7 @@ pygmentsCodefences = true
 [Params]
   css = ["css/darcula.css"]
 ```
+
+## Example
+
+Theme is used throughout by [blog](https://tlouarn.com/blog).
